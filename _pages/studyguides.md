@@ -12,8 +12,15 @@ Some professors allow entirely open-book tests. I ask that you not print these s
 
 **physics courses**
 
-_course name:_ Introduction to Solid State Physics  
-_institution and course number:_ UNC Chapel Hill, PHYS 573
+$\color{#ff69b4}{\text{_course name:_ Introduction to Solid State Physics}}$  
+_institution and course number:_ UNC Chapel Hill, PHYS 573  
+_textbook_: Kittel, _Introduction to Solid State Physics_
+
+Chapter 1: 
+Chapter 2:
+Chapter 3:
+Chapter 8:
+Chapter 9:
 
 
 
