@@ -3,3 +3,8 @@ remote_theme: sighingnow/jekyll-gitbook
 title: anya's little textbook
 description: some fun little resources from my physics major @ unc!
 ---
+
+toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
