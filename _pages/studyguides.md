@@ -14,7 +14,8 @@ Some professors allow entirely open-book tests. I ask that you not print these s
 
 **course name:** Introduction to Solid State Physics  
 **institution and course number:** UNC Chapel Hill, PHYS 573  
-**textbook**: Kittel, _Introduction to Solid State Physics_
+**textbook:** Kittel, _Introduction to Solid State Physics_  
+**made:** Spring 2026
 
 Chapter 1:  
 Chapter 2:  
@@ -22,5 +23,26 @@ Chapter 3:
 Chapter 8:  
 Chapter 9:  
 
+**course name:** Electronics I  
+**institution and course number:** UNC Chapel Hill, PHYS 351  
+**textbook:** None  
+**made:** Fall 2025
+
+full study guide
+
+**course name:** Thermal Physics  
+**institution and course number:** UNC Chapel Hill, PHYS 441  
+**textbook:** Schroeder, _An Introduction to Thermal Physics_  
+**made:** Fall 2025
+
+study guide
+
+**course name:** Electromagnetism II  
+**institution and course number:** UNC Chapel Hill, PHYS 412  
+**textbook:** Griffiths, _Introduction to Electrodynamics_  
+**made:** Spring 2025
+
+[study guide](https://drive.google.com/file/d/1CuMz7YsZl1W520Dxw0-mXB4jVuSu10Hj/view?usp=drive_link)  
+This study guide goes through chapters 7-11, and covers an introduction of special relativity from chapter 12.
 
 
