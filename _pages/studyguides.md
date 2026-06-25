@@ -12,13 +12,8 @@ Some professors allow entirely open-book tests. I ask that you not print these s
 
 **physics courses**
 
-_course name:_ Introduction to Solid State Physics
+_course name:_ Introduction to Solid State Physics  
 _institution and course number:_ UNC Chapel Hill, PHYS 573
 
-> blockquote
-> 
-> lskdjf
-> 
-> sldkfj
 
-hello
+
