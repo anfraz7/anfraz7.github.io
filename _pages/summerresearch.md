@@ -35,7 +35,9 @@ As you can see in the section above, there are many _many_ diverse ways to fill 
 
 # part ii: how can I put together a strong REU, PIRE, SULI, or other summer research application?
 
-In this section, I'd like to share some of the application details that got me into my own summer research programs. Positions like REUs and SULIs are highly competitive, and there's no surefire way of putting together an application that will get you into 
+In this section, I'd like to share some of the application details that got me into my own summer research programs. Positions like REUs and SULIs are highly competitive, and there's no surefire way of putting together an application that will get you into one. That said, here are some tips that I think will make you a strong applicant.
+
+I'll be using "REU" interchangeably with "REUs and other summer programs" from here out.
 
 ## identifying programs you are competitive for
 
@@ -46,6 +48,18 @@ When applying to REUs, I was very intentional about finding out what types of st
 - Does the program state a focus on certain demographics? For example, some REUs I applied to clearly made an effort to promote women in physics which led to some great experiences in female-dominated spaces that I wouldn't otherwise have had. But, they might not be the right program to apply to if you don't fit the demographic.
 
 ## essays
+
+REU essays are a very different beast from college essays. Your essays are your space to show the reader that you have the qualities needed to excel in a 10-week research project. That can include creativity, organization, self-motivation, etc. You can show this through discussion of previous research, class or personal projects, jobs, or other experiences.
+
+Every REU will have a slightly different essay prompt, but I found that I could normally keep the same core essay and swap out certain sections for different REUs. In my opinion, these are some crucial elements that you should include in your essay:
+
+- Specific research groups you are interested in: almost all REUs will have a list of professors with possible research projects for an REU student on their website. These are there for a reason. The REUs want to see that you have done your research into their program, and are applying to specific professors for a reason. Many programs will then send your application to the professors that you listed on your essay, and then those professors will choose who they want to admit--I know this was the case for my Vanderbilt and Penn State REUs.
+- Explanation of why this REU will fit into your career goals. A professor generally doesn't decide to take an REU student because they want you to get a lot of research done; training an REU student requires a lot of investment from a research group and 10 weeks isn't a lot of time to get significant research output! Instead, professors often target students that have specific career goals that will motivate them to use the REU as a launching pad to a bigger career. In other words, professors want to help motivated students build careers. In particular, if you want a PhD, say that! Many REU-type programs are specifically targeted to help students prepare for grad school.
+
+These are some elements that I included in all my essays, but that could be done differently:
+
+- Introduction: in a few sentences, what areas of research are you interested in and why? Keep it you-specific, focusing on how your personal academic experiences have led you to these research interests.
+- Paragraph explaining the skills that I learned from previous research/other experience, and how those relate directly to my suitability for that REU.
 
 Vanderbilt University (summer after freshman year):
 
