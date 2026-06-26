@@ -27,12 +27,12 @@ To help you understand how to identify programs you are competitive for, I will 
 
 My first time applying to REUs was as a freshman. I had no formal research experience, and the only courses in the physics major I had completed were PHYS 118, 119, and 331. As such, I very intentionally targeted REUs that either stated explicitly that they accepted freshman, or that I knew had accepted freshman in the past. Many REUs will keep a list of former students on their website, and this can help you get a feel for if you fit into the demographic of that REU. I additionally applied for two NIST SURFs, which keep application data on their website and I knew the NIST SURF at Gaithersburg had some years had a >50% acceptance rate. This is the list I put together, and my results:
 
-**accepted**
+**accepted**  
 Vanderbilt Institute of Nanoscale Science and Engineering REU (attended!)  
 NIST SURF at Gaithersburg  
 University of Toledo Physics REU (offered in April, likely after others turned down offers)
 
-**rejected**
+**rejected**  
 Marine Physical Laboratory in San Diego Summer Internship  
 NIST SURF Boulder  
 University of Oklahoma Physics REU  
@@ -42,10 +42,10 @@ Virginia Tech Physics REU
 
 My second time applying to REUs, I had a significantly more developed CV with one REU under my belt and a research group that I joined sophomore year. I got a bit cocky, and created a smaller list with some pretty well-known schools. However, I also had a goal this year that I wanted to go out of the country, since I knew I couldn't study abroad during the year. Summer research jobs offered a way to go abroad while getting paid, which was very appealing.
 
-**accepted**
+**accepted**  
 US-Japan Partnership in Excitonic Materials PIRE: University of Vermont/Yamagata University (attended!)
 
-**rejected**
+**rejected**  
 Germany RISE Program (waitlisted then rejected)  
 University of Colorado at Boulder Physics REU  
 NIST SURF Boulder  
@@ -56,13 +56,13 @@ I think this was by far my least strategic year, and it was very lucky that I re
 
 Finally, my senior year I knew I had a strong application and I also knew I would be happy staying in Chapel Hill for the summer if I got a SURF. Therefore, I applied to fewer programs. Because I had some pretty significant research experience, I focused my applications on programs that had information about past students available online. From there I could see information such as: did they take students from R1 universities like UNC, or were they focused on schools with fewer research opportunities? Did they tend to take students in the summer before their senior year? As you can see from my list below, I put together a very different collection of programs before my senior year than I did before my sophomore year:
 
-**accepted**
+**accepted**  
 Penn State Sustainable Physics and Materials REU (attended!)  
 Colorado State and UC Berkeley EUV Center REU  
 *DOE SULI (offered environmental science project that I didn’t apply for)  
 *University of Michigan Physics REU (offered particle physics project that I didn't apply for)
 
-**rejected**
+**rejected**  
 Optics in the City of Lights University of Michigan/Paris-Saclay REU  
 University of Rochester Optics REU  
 
