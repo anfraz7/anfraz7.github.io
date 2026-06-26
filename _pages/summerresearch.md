@@ -61,7 +61,8 @@ These elements do not have to be in this order; in my essays I typically broke u
 
 Below I have shared the three essays that got me into the REUs I attended. All three are from very different stages of my career, and show how to write an essay with different levels of research experience. I had a habit during undergrad of using exclamation points in my application essays. Clearly it didn't stop me from getting into any programs, but I really don't encourage anyone else to be so enthusiastically exclamation point-y in their essays... :)
 
-Vanderbilt University (summer after freshman year):
+
+**Vanderbilt University (summer after freshman year):**
 
 > As a physics and music double major, I would be incredibly grateful to apply my studies towards sustainable energy research with the VINSE REU program. My studies in physics and music have given me an appreciation of applications of physics, such as musical acoustics – last year, I completed a yearlong research project on the correlation between musician practice habits and flute harmonics. This love of physics applications, coupled with a desire to fight climate change, has led me to work towards a career in renewable energy. Following my undergraduate degree, I hope to pursue either a PhD in physics or graduate study in mechanical or electrical engineering to pursue this career path.
 > 
@@ -75,7 +76,8 @@ Vanderbilt University (summer after freshman year):
 
 **notes about the essay**: Although I had no formal research experience, I took advantage of the experiences I _did_ have (high school projects, classes, self-taught coding) and painted a story of why they prepared me to _start_ research at this REU. Reading this essay now, I sound so young! My second paragraph particularly has a very entertaining run-on sentence that I think everyone reading this could write better. I think this is very good proof that many REUs are looking for enthusiastic young students with lots of _self-motivation_ and _potential_, rather than experience.
 
-Yamagata University (summer after sophomore year):
+
+**Yamagata University (summer after sophomore year):**
 
 > As a physics major with much experience working in computational research, I would be absolutely thrilled to expand my horizons to experimental physics in Yamagata City or Yonezawa this summer. I spent last summer working full-time at Vanderbilt Institute of Nanoscale Science and Engineering REU, creating a computational method for studying heat across metal/metal oxide interfaces using molecular dynamics. My project was affiliated with the National Renewable Energy Laboratory, and I particularly loved observing the impact of physics research on green projects. Additionally, I had the opportunity to learn about the kinds of nanoscale manipulation and research that are possible, through my own project and through the weekly graduate-led “nanoseminars.” These included presentations in materials, nanophotonics, and photovoltaics, and they piqued my interest in the experimental process of nanoscale research. Given this, the research areas in the Yamagata University REU are perfect: solar cells and light emitting diodes, photonics, and nanomaterials are all areas that I would love to research this summer, especially in an institution known for its work on organic LEDs. In particular, I would be interested in solar cell research.
 > 
@@ -86,7 +88,8 @@ Yamagata University (summer after sophomore year):
 **notes about the essay**: This particular program did not list individual professors on its website, so I instead identified the area of research (experimental solar cell work) that I was interested in. I drew from my first REU at Vanderbilt by highlighting experiences that I couldn't show on my CV. For example, I talked about taking advantage of weekly seminars to explore my research interests, exhibiting curiosity and self-motivation. I also used my past experience to paint a narrative of why I wanted to do experimental work this summer.  
 Although it worked for the director of this program, I think my last paragraph is a little unprofessional. I could have framed it more intentionally about my excitement for gaining an international research perspective, rather than saying I "have always dreamed of visiting Japan." That said, I do think it was a helpful addition to explain to the reader why this summer was my only way to study abroad, and show that I would be equally passionate about research and exploring a new culture during the REU.
 
-Penn State (summer after junior year):
+
+**Penn State (summer after junior year):**
 
 > I came into college looking for sustainability research: my first experience was an REU studying heat across metal/metal oxide interfaces using molecular dynamics, as part of a larger effort to create a cleaner method for catalytic cracking. I enjoyed the theory but wanted to also explore experimental research, so my next experience was a PIRE clean energy program in a thin film electrochemistry lab in Yamagata, Japan. When I returned home, I joined a biophysics lab and began characterizing 3D printed microscopes and designing a low cost build-it-yourself molecular printer to attach to the microscopes. I do love how intimately I now know my microscope (her name is Circe, she likes to be difficult but I still love her), but I miss applying my physics theory classes to my research! My interests lie in materials physics, which I have actively sought out research experiences outside of my home university to pursue.
 >  
