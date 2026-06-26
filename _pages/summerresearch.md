@@ -13,66 +13,35 @@ A bit of background about my own summer research journey: I spent all three of m
 As an additional resource, I'd like to share a [summer research opportunities document](https://docs.google.com/document/d/1gY2LRExqct45rWbPK-ibcz2qokDdoDqKtyUv5meeHdg/edit?tab=t.0#heading=h.u3oq6bo1mske) that a few SPS members started a couple years ago. This document crowdsources information on summer research programs that UNC physics students have taken part in so that future students can find more opportunities. If you have done a cool research program that isn't on the list, we'd love you to add it as well!
 
 
-# part I: what summer research opportunities should I apply for?
+# part i: what summer research opportunities should I apply for?
 
 What summer research opportunities you should apply for depend heavily on your career goals. If your goal is to end up in industry following undergrad, it's incredibly helpful to complete summer internships at companies you may want to work at following graduation. This isn't a path that I have taken, so I encourage you to speak with the career center, professors, and other students who have followed this path if it is your goal.
 
-If your career goal is to apply for PhD programs following undergrad, I got you! This is the boat I was in beginning freshman year, and I have spent a lot of time 
+If your career goal is to apply for PhD programs following undergrad, I got you! This is the boat I was in beginning freshman year, and I have a lot of experience from my own path and from my friends' experiences to draw from. I'll be mostly talking about summer research from this perspective from now on.
 
-REUs are DEI
+## types of summer research opportunities
 
-## identifying programs you are competitive for
+Firstly, there are abundant paid and unpaid summer research opportunities at UNC. Finding a lab at UNC is the easiest guaranteed way to secure a summer research experience. If you already do research with a lab during the year, they are almost certain to at least support you to do 20 hours of unpaid research over the summer, which you can easily supplement with a part-time job. 
 
-To help you understand how to identify programs you are competitive for, I will share my own application choices across my three application cycles.
+There are also a few ways to get paid for doing research at UNC over the summer. Firstly, it's important to ask your research advisor if they can pay you over the summer. It can feel like a really uncomfortable question at first, but as long as you are respectful, professors find it totally normal and they will want to pay you if they can. Additionally, most research advisors will support you to apply for a SURF at UNC, which pays a $4000 summer stipend for you to do 20 hours of research per week. A SURF application requires you to write a research proposal, which your research advisor should be able to help you talk through ideas for and edit.
 
-My first time applying to REUs was as a freshman. I had no formal research experience, and the only courses in the physics major I had completed were PHYS 118, 119, and 331. As such, I very intentionally targeted REUs that either stated explicitly that they accepted freshman, or that I knew had accepted freshman in the past. Many REUs will keep a list of former students on their website, and this can help you get a feel for if you fit into the demographic of that REU. I additionally applied for two NIST SURFs, which keep application data on their website and I knew the NIST SURF at Gaithersburg had some years had a >50% acceptance rate. This is the list I put together, and my results:
+There are also plenty of paid research opportunities outside of UNC, like the ones I did. When you hear people say they are "applying for REUs," they usually mean that they are applying for a combination of REUs and other similar research opportunities. Some good ones to look into include DOE SULI, NIST SURF, DAAD RISE, NSF PIRE, NSF IRES, and plent of others. These require more involved applications including essays, letters of recommendation, and a CV.
 
-**accepted**  
-Vanderbilt Institute of Nanoscale Science and Engineering REU (attended!)  
-NIST SURF at Gaithersburg  
-University of Toledo Physics REU (offered in April, likely after others turned down offers)
+## understanding how summer research fits into your career goals
 
-**rejected**  
-Marine Physical Laboratory in San Diego Summer Internship  
-NIST SURF Boulder  
-University of Oklahoma Physics REU  
-UC Merced Physics REU  
-Coe College Physics REU  
-Virginia Tech Physics REU  
+If your goal is to apply for grad school, it's a very good idea to try to spend at least the summers after your sophomore and junior year doing research. It's a lot harder to commit to a significant research project during the school year as an undergraduate because of all of your class commitments, so summer is the time to develop the long-term research skills that will help you in grad school and make you a competitive applicant. Of course, there is no one way to create a successful grad school application, and there are always reasons why you may not be able to spend both summers doing research! But if you are an underclassmen currently planning the remainder of your undergraduate career, I highly recommend making two summers of research a goal. Most successful grad school applicants I know had this.
 
-My second time applying to REUs, I had a significantly more developed CV with one REU under my belt and a research group that I joined sophomore year. I got a bit cocky, and created a smaller list with some pretty well-known schools. However, I also had a goal this year that I wanted to go out of the country, since I knew I couldn't study abroad during the year. Summer research jobs offered a way to go abroad while getting paid, which was very appealing.
+As you can see in the section above, there are many _many_ diverse ways to fill two summers of research. The way you choose to do so depends entirely on your career goals. For example, my goal coming into undergrad was to get as many diverse materials science research experiences as I could while still making each experience in-depth and meaningful, because that exploration was very important for me before settling down in grad school. Therefore, I applied for REUs all three summers of undergrad, and each of them was an invaluable experience. On the other hand, I have many friends who joined a research group at their home universities in their freshman or sophomore year and spent their summers working in that group, then did an REU or SULI the summer after their junior year. From what I can tell, both options are equally competitive for grad schools, but they fulfill very different personal career goals. Alternatively, many people just stay in one lab at their home university for their entire undergrad and excel there; once again, a very different and valuable path.
 
-**accepted**  
-US-Japan Partnership in Excitonic Materials PIRE: University of Vermont/Yamagata University (attended!)
+## identifying REU-type programs you are competitive for
 
-**rejected**  
-Germany RISE Program (waitlisted then rejected)  
-University of Colorado at Boulder Physics REU  
-NIST SURF Boulder  
-Boston University Photonics  
-University of Colorado at Boulder Materials Science REU  
-
-I think this was by far my least strategic year, and it was very lucky that I received the PIRE offer. REUs are a long shot no matter how good your CV looks, so I think the biggest lesson to take away from this application cycle is to make sure you apply to a good number of programs.
-
-Finally, my senior year I knew I had a strong application and I also knew I would be happy staying in Chapel Hill for the summer if I got a SURF. Therefore, I applied to fewer programs. Because I had some pretty significant research experience, I focused my applications on programs that had information about past students available online. From there I could see information such as: did they take students from R1 universities like UNC, or were they focused on schools with fewer research opportunities? Did they tend to take students in the summer before their senior year? As you can see from my list below, I put together a very different collection of programs before my senior year than I did before my sophomore year:
-
-**accepted**  
-Penn State Sustainable Physics and Materials REU (attended!)  
-Colorado State and UC Berkeley EUV Center REU  
-*DOE SULI (offered environmental science project that I didn’t apply for)  
-*University of Michigan Physics REU (offered particle physics project that I didn't apply for)
-
-**rejected**  
-Optics in the City of Lights University of Michigan/Paris-Saclay REU  
-University of Rochester Optics REU  
-
-These three examples show the ways that I went about putting together lists of programs to apply to. I think the biggest strength of my lists were the intention I put into finding out what types of students different REUs/other programs accepted, and putting together my list based on that. These are some examples of elements to consider:
+When applying to programs, I was very intentional about finding out what types of students different REUs/other programs accepted and targeting programs I felt I was competitive for. Not every program looks for the same type of student. For example, many REUs (but not all, and not to the same extent) aim to support students who don't have access to certain types of research at their home universities or who are underrepresented minorities in their field. I have found lots of success from REUs gaining materials science research experience that I could not have otherwise gotten at UNC and connecting with other gender minorities in research. Programs like DOE SULIs, on the other hand, often look for the more traditionally experienced student who has enough research experience to be immediately more productive in the lab. Understanding the goals of different programs will help you both come up with a good list and tailor your applications to fit their search. Some questions to consider include:
 
 - Does the program typically accept students in your year/with your amount of experience?
 - Does the program typically accept students from R1 universities like UNC?
-- Does the program state a focus on certain demographics? For example, some REUs I applied to clearly made an effort to promote women in physics (which led to some great experiences in female-dominated spaces that I wouldn't otherwise have had! but might not be the right program to apply to if you don't fit the demographic)
+- Does the program state a focus on certain demographics? For example, some REUs I applied to clearly made an effort to promote women in physics which led to some great experiences in female-dominated spaces that I wouldn't otherwise have had. But, they might not be the right program to apply to if you don't fit the demographic.
 
-# part II: how can I put together a strong REU, PIRE, SULI, or other summer research application?
+# part ii: how can I put together a strong REU, PIRE, SULI, or other summer research application?
 
 In this section, I'd like to share some of the application details that got me into my own summer research programs. Positions like REUs and SULIs are highly competitive, and there's no surefire way of putting together an application that will get you into 
 
