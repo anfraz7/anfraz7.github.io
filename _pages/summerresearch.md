@@ -19,7 +19,7 @@ What summer research opportunities you should apply for depend heavily on your c
 
 If you're thinking about applying for PhD programs following undergrad, I got you! This is the boat I was in beginning freshman year, and I have a lot of experience from my own path and from my friends' experiences to draw from. I'll be talking about summer research from this perspective from now on.
 
-## types of summer research opportunities
+### types of summer research opportunities
 
 1. **Unpaid summer research at UNC.** There are an abundancy of research groups at UNC that will be happy to host an unpaid summer undergraduate researcher. SPS and ViP usually have meetings towards the beginning of each semester guiding undergrads on how to get involved in research at UNC. It's as easy as emailing professors of interest and requesting to meet to talk about their research. Once you're in a research group, they are almost certain to at least support you to do 20 hours of unpaid research over the summer, which you can easily supplement with a part-time job.
 
