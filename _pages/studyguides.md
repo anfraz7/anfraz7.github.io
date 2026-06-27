@@ -17,7 +17,7 @@ Some professors allow entirely open-book tests. I ask that you not print these s
 **course name:** Introduction to Solid State Physics  
 **institution and course number:** UNC Chapel Hill, PHYS 573  
 **textbook:** Kittel, _Introduction to Solid State Physics_  
-**made:** Spring 2026
+**made:** Spring 2026  
 **notes**: Covers the chapters below, but not the whole course (which covers all of Kittel).
 
 Chapter 1:  
@@ -77,7 +77,7 @@ study guide
 **institution and course number:** UNC Chapel Hill, PHYS 421  
 **textbook:** Griffiths, _Introduction to Quantum Mechanics_  
 **made:** Spring 2024  
-**notes:** Loosely covers chapters 1-6, but was created based on lectures rather than the textbook. The first half of this study guide is less detailed than the later ones and mainly states topics we needed to know for the exam, but the second half contains more in-depth notes. 
+**notes:** Loosely covers chapters 1-6, but was created based on lectures rather than the textbook. The first half of this study guide is less detailed than the later ones and mainly states topics we needed to know for the exam, but the second half contains more in-depth notes.  
 **errata:** On page 7, the expression for the raising/lowering operator applied to an orbital angular momentum state should include l, rather than s.
 
 [full study guide](https://drive.google.com/file/d/1lwlfyQPRIPsiDzX9gHcU_r-2HHDwSems/view?usp=drive_link)
@@ -96,7 +96,7 @@ study guide
 **course name:** Calculus-Based Physics I: Mechanics  
 **institution and course number:** Mix of AP Physics C and self-study  
 **textbook:** N/A  
-**made:** Summer 2022
+**made:** Summer 2022  
 **notes**: This is not comprehensive for PHYS 118! It's pretty close though. The main differences are that this study guide includes drag force which PHYS 118 doesn't, and the study guide doesn't include special relativity or waves which PHYS 118 does.
 
 [full study guide](https://drive.google.com/file/d/1smbv7H_44zuHnpogd7qj5-xOut4reg4t/view?usp=drive_link)
@@ -121,7 +121,7 @@ study guide
 **course name:** AP Calculus BC/Calculus II  
 **institution and course number:** High School  
 **textbook:** N/A  
-**made:** Spring 2020
+**made:** Spring 2020  
 **notes**: The boundary between AP Calculus AB and AP Calculus BC may be a little fuzzy on my study guides since I took them in rapid succession. The last page or two includes useful tables and formulas to know.
 
 [full study guide](https://drive.google.com/file/d/1zSy9wwum-D0h23tcs8e-Xh_xfTiO5E06/view?usp=drive_link)
@@ -129,7 +129,7 @@ study guide
 **course name:** AP Calculus AB/Calculus I  
 **institution and course number:** High School  
 **textbook:** N/A  
-**made:** Fall 2019
+**made:** Fall 2019  
 **notes**: The boundary between AP Calculus AB and AP Calculus BC may be a little fuzzy on my study guides since I took them in rapid succession. The last page or two includes useful tables and formulas to know.
 
 [full study guide](https://drive.google.com/file/d/1A14FOo_w2VmzNWPU9q7bKYCJ6hJgztgF/view?usp=drive_link)
@@ -140,7 +140,7 @@ study guide
 **course name:** AP Chemistry  
 **institution and course number:** High School  
 **textbook:** N/A  
-**made:** Fall 2020/Spring 2021
+**made:** Fall 2020/Spring 2021  
 **notes**: Supposedly covers CHEM 101 and 102 at UNC. This study guide doesn't cover unit 8 (equilibrium) or unit 9 (applications of thermodynamics). The last page or two includes useful tables and formulas to know.
 
 [study guide](https://drive.google.com/file/d/1tEBGs8qRNjx6SSugzJ6SjTXe89lpxGoH/view?usp=drive_link)
