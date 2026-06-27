@@ -27,6 +27,8 @@ If you're thinking about applying for PhD programs following undergrad, I got yo
 
 3. **Paid research outside of UNC.** There are plenty of paid research opportunities outside of UNC, like the ones I did. When you hear people say they are "applying for REUs," they usually mean that they are applying for a combination of REUs and other similar research opportunities. Some good ones to look into include DOE SULI, NIST SURF, DAAD RISE, NSF PIRE, NSF IRES, and plent of others. These require more involved applications including essays, letters of recommendation, and a CV.
 
+4. **And so many more**. Talk to other students and research advisors about other ways to do summer research. Maybe that's through an industry internship, the Phillips Ambassadors program at UNC, or something else. The world is your oyster!
+
 ## understanding how summer research fits into your career goals
 
 If your goal is to apply for PhD programs, it's a good idea to spend at least the summers after your sophomore and junior year doing research. It's a lot harder to commit to a significant research project during the school year as an undergraduate because of all of your class commitments, so summer is the time to develop the long-term research skills that will prepare you to be a successful grad student. Of course, there are a multitude of paths to grad school and you shouldn't let _not_ having two summers of research dissuade you from applying to grad school. But if you are an underclassmen currently planning the remainder of your undergraduate career, I highly recommend making two summers of research a goal. Most successful grad school applicants I know had this.
