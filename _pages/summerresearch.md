@@ -29,7 +29,7 @@ If you're thinking about applying for PhD programs following undergrad, I got yo
 
 4. **And so many more**. Talk to other students and research advisors about other ways to do summer research. Maybe that's through an industry internship, the Phillips Ambassadors program at UNC, or something else. The world is your oyster!
 
-## understanding how summer research fits into your career goals
+### understanding how summer research fits into your career goals
 
 If your goal is to apply for PhD programs, it's a good idea to spend at least the summers after your sophomore and junior year doing research. It's a lot harder to commit to a significant research project during the school year as an undergraduate because of all of your class commitments, so summer is the time to develop the long-term research skills that will prepare you to be a successful grad student. Of course, there are a multitude of paths to grad school and you shouldn't let _not_ having two summers of research dissuade you from applying to grad school. But if you are an underclassmen currently planning the remainder of your undergraduate career, I highly recommend making two summers of research a goal. Most (not all!) successful grad school applicants I know had this.
 
@@ -39,7 +39,7 @@ As you can see in the section above, there are many _many_ ways to fill two summ
 
 In this section, I'd like to share some of the application details that got me into my own summer research programs. Positions like REUs and SULIs are highly competitive, and there's no surefire way of putting together an application that will get you into one. That said, here are some tips that I think will make you a strong applicant.
 
-## identifying programs you are competitive for
+### identifying programs you are competitive for
 
 When applying to summer programs, I was very intentional about finding out what types of students different programs accepted and targeting programs I felt I was competitive for. Not every program looks for the same type of student. For example, many REUs (but not all, and not to the same extent) aim to support students who don't have access to certain types of research at their home universities or who are underrepresented minorities in their field. I have found lots of success from REUs gaining materials science research experience that I could not have gotten at UNC and connecting with other gender minorities in research. Programs like DOE SULIs, on the other hand, often look for the more traditionally experienced student who has enough research experience to be immediately more productive in the lab. Understanding the goals of different programs will help you both come up with a good list and tailor your applications to fit their search. Some questions to consider include:
 
@@ -49,11 +49,11 @@ When applying to summer programs, I was very intentional about finding out what 
 
 Identifying suitable programs was particularly important during my freshman year. I only applied to programs that stated explicitly that they accepted freshman or that showed on their website that they had accepted freshman in the past.
 
-## cv
+### cv
 
 Instead of resumes, academic jobs use CVs. For me and many people I know, summer research applications are the first time we had to put together a CV. While a resume includes tailored experiences for a specific job, your CV is far more comprehensive. [Here](https://career.ucsb.edu/sites/default/files/docs/CV%20(Grad-STEM-2).pdf) is a great example of how to format a CV as a student. The example CV is for a grad student, yours won't have nearly as much research-related experience when applying to summer research! For reference, [here](https://drive.google.com/file/d/1QwTIx_rZVQd2f6kmXZvlT7YcOplX67wd/view?usp=drive_link) is the CV I used when applying to summer programs during my freshman year. The formatting on the grad student example is much nicer; aim for that! I share my freshman CV to show the types of items you can include on a CV if you haven't been involved in research yet. For example, I listed a citizen science project and a cool high school project I did. You could also include a job at the planetarium, tutoring, leading a STEM club, science olympiad, etc. Be creative! And at this point in your career, I think it's important to include unrelated job experience like retail or food service at the end of your CV too---it shows you are motivated and confident in a work environment.
 
-## essays
+### essays
 
 Summer research essays are a very different beast from college essays. Your essays are your space to show the reader that you have the qualities needed to excel in a 10-week research project. That can include creativity, organization, self-motivation, etc. You can show this through discussion of previous research, class or personal projects, jobs, or other experiences.
 
@@ -109,13 +109,13 @@ Although it worked for the director of this program, I think my last paragraph i
 
 **notes about the essay**: Ohhhhhh, the exclamation points! So many! Don't use exclamation points in your essays! That said, I use a lot of the same techniques I mentioned in the first two essays in this one. I connect my interest in this REU to my past research experience in ways that show I am self-motivated and curious. I also state very explicitly (without complaining) that I cannot do the materials science research I desire at UNC, hence my extensive previous REU experience and why I am applying to work at Penn State rather than UNC.
 
-## recommendation letters
+### recommendation letters
 
 Most summer programs require two recommendation letter writers. Both letter writers should be from research advisors or STEM professors/teachers. The only example I know of an exception is my friend who won a DAAD RISE fellowship; this is a research opportunity in Germany, and she used an advanced German language professor as a letter writer. If you are a freshman, I think it's okay to use a high school teacher as a letter writer, but if possible try to find a teacher from an AP or college STEM class; I used a math teacher from a college class that I dual enrolled in as a high schooler. Try your best to make at least one of your letter writers a college professor at UNC. If you are not a freshman, both letter writers should have PhDs and should know you from college, not high school.
 
 I wrote a section on recommendation letter writers in my applying to grad school guide, and I think the same advice applies here. Check that out if you're interested!
 
-## good luck!
+### good luck!
 
 Once you've submitted your applications, put them out of your mind and maybe you'll get a pretty exciting acceptance email a month or two down the line :) In the meantime, it's a good idea to make a backup plan for a lab you can work in at UNC over the summer if the other summer programs don't work out. And don't neglect applying for a SURF in favor of REUs, both are super valuable!
 
