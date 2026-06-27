@@ -14,6 +14,50 @@ gitbook_version:  3.2.3
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
 
+
+nav:
+  - title: anya's little textbook
+    url: /
+  - title: study guides
+    url: /study-guides/
+  - title: summer research
+    url: /summer-research/
+  - title: applying for grad school
+    url: /applying-for-grad-school/
+    sublinks:
+      - title: introduction
+        url: /applying-for-grad-school/introduction/
+      - title: phd vs master's
+        url: /applying-for-grad-school/phd-vs-masters/
+      - title: affording a phd
+        url: /applying-for-grad-school/affording-a-phd/
+      - title: sample timeline
+        url: /applying-for-grad-school/sample-timeline/
+      - title: picking schools
+        url: /applying-for-grad-school/picking-schools/
+      - title: recommendation letters
+        url: /applying-for-grad-school/recommendation-letters/
+      - title: transcripts
+        url: /applying-for-grad-school/transcripts/
+      - title: statement of purpose
+        url: /applying-for-grad-school/statement-of-purpose/
+      - title: personal statement
+        url: /applying-for-grad-school/personal-statement/
+      - title: cv
+        url: /applying-for-grad-school/cv/
+      - title: fee waivers
+        url: /applying-for-grad-school/fee-waivers/
+      - title: contacting professors
+        url: /applying-for-grad-school/contacting-professors/
+      - title: interviews
+        url: /applying-for-grad-school/interviews/
+      - title: fellowships
+        url: /applying-for-grad-school/fellowships/
+      - title: international fellowships
+        url: /applying-for-grad-school/campus-visits/
+      - title: campus visits
+        url: /applying-for-grad-school/campus-visits/
+
 toc:
   enabled: true
   h_min:   1
