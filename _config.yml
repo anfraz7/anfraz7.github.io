@@ -19,14 +19,14 @@ nav:
   - title: anya's little textbook
     url: /
   - title: study guides
-    url: /study-guides/
+    url: /study-guides.md/
   - title: summer research
-    url: /summer-research/
+    url: /summer-research.md/
   - title: applying for grad school
     url: /applying-for-grad-school/
     sublinks:
       - title: introduction
-        url: /applying-for-grad-school/introduction/
+        url: /applying-for-grad-school/introduction.md/
       - title: phd vs master's
         url: /applying-for-grad-school/phd-vs-masters/
       - title: affording a phd
@@ -81,9 +81,6 @@ kramdown:
 syntax_highlighter_style: colorful
 
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
-
-# Permalinks
-permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
 # disqushandler:            sighingnow
