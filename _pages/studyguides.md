@@ -6,9 +6,9 @@ category: Jekyll
 layout: post
 ---
 
-I have been developing my library of study guides since high school. These range from several-page outlines of classes to many-page course notes. I share them here to help others in their own studies.
+I have been developing my library of study guides since high school. These range from several-page outlines of classes (older study guides) to many-page course notes (newer study guides). I share them here to help others in their own studies.
 
-These study guides are raw and unpolished, meant to help me study and share with my friends. Please forgive any 
+These study guides are raw and unpolished, meant to help me study and share with my friends. I try to make them comprehensive, but they are not always so. Please don't take them as a substitute for your textbook!  
 
 Some professors allow entirely open-book tests. I ask that you not print these study guides out for exams. I have no way to enforce my request, but I ask for your cooperation! My goal in sharing my study guides is to help people gain a more in-depth or differently-structured understanding of the material they cover, not to encourage others to cut corners when preparing for an exam.
 
@@ -18,6 +18,7 @@ Some professors allow entirely open-book tests. I ask that you not print these s
 **institution and course number:** UNC Chapel Hill, PHYS 573  
 **textbook:** Kittel, _Introduction to Solid State Physics_  
 **made:** Spring 2026
+**notes**: Covers the chapters below, but not the whole course (which covers all of Kittel).
 
 Chapter 1:  
 Chapter 2:  
@@ -92,3 +93,54 @@ study guide
 [lagrangians]  
 [orbits, non-inertial reference frames, moment of inertia, coupled oscillations]
 
+**course name:** Calculus-Based Physics I: Mechanics  
+**institution and course number:** Mix of AP Physics C and self-study  
+**textbook:** N/A  
+**made:** Summer 2022
+**notes**: This is not comprehensive for PHYS 118! It's pretty close though. The main differences are that this study guide includes drag force which PHYS 118 doesn't, and the study guide doesn't include special relativity or waves which PHYS 118 does.
+
+[full study guide](https://drive.google.com/file/d/1smbv7H_44zuHnpogd7qj5-xOut4reg4t/view?usp=drive_link)
+
+
+# math courses
+
+**course name:** Applied Differential Equations I  
+**institution and course number:** NC State/High School Dual Enrollment, MA 341  
+**textbook:** N/A  
+**made:** Spring 2021
+
+[full study guide](https://drive.google.com/file/d/1aHfkBFXXwvGWqcyXmHN9AvawowdoFhYY/view?usp=drive_link)
+
+**course name:** Calculus III  
+**institution and course number:** NC State, MA 242  
+**textbook:** N/A  
+**made:** Fall 2020
+
+[full study guide](https://drive.google.com/file/d/1a8cAEiN2DX0d1Ian0-9QN6dFkSuN8USz/view?usp=drive_link)
+
+**course name:** AP Calculus BC/Calculus II  
+**institution and course number:** High School  
+**textbook:** N/A  
+**made:** Spring 2020
+**notes**: The boundary between AP Calculus AB and AP Calculus BC may be a little fuzzy on my study guides since I took them in rapid succession. The last page or two includes useful tables and formulas to know.
+
+[full study guide](https://drive.google.com/file/d/1zSy9wwum-D0h23tcs8e-Xh_xfTiO5E06/view?usp=drive_link)
+
+**course name:** AP Calculus AB/Calculus I  
+**institution and course number:** High School  
+**textbook:** N/A  
+**made:** Fall 2019
+**notes**: The boundary between AP Calculus AB and AP Calculus BC may be a little fuzzy on my study guides since I took them in rapid succession. The last page or two includes useful tables and formulas to know.
+
+[full study guide](https://drive.google.com/file/d/1A14FOo_w2VmzNWPU9q7bKYCJ6hJgztgF/view?usp=drive_link)
+
+
+# other courses
+
+**course name:** AP Chemistry  
+**institution and course number:** High School  
+**textbook:** N/A  
+**made:** Fall 2020/Spring 2021
+**notes**: Supposedly covers CHEM 101 and 102 at UNC. This study guide doesn't cover unit 8 (equilibrium) or unit 9 (applications of thermodynamics). The last page or two includes useful tables and formulas to know.
+
+[study guide](https://drive.google.com/file/d/1tEBGs8qRNjx6SSugzJ6SjTXe89lpxGoH/view?usp=drive_link)
