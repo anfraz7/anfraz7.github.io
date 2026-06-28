@@ -42,10 +42,10 @@ The SOP is not the time to…
 The SOP is the time to…
 
 - Reflect on times you have displayed independent thought in the lab.
-- Push yourself to talk about the work you have done in ways that initially feel boastful or uncomfortable.[^1]
+- Push yourself to talk about the work you have done in ways that initially feel boastful or uncomfortable.*
 - Use strong verbs to take ownership of your actions in the lab.
 
-[^1]: In no way do I mean you should lie or exaggerate on your SOP. However, I have noticed in myself and my friends that we all have a tendency to feel _reeeeeally_ uncomfortable about taking any sort of ownership for our work in the lab, since our research has of course been enabled by so many amazing research mentors. My experience is that writing out plainly and truthfully my research contributions without mentioning my mentors initially felt almost like lying. I encourage you to push yourself to reach this point of discomfort. The reader knows that undergraduate research is supported by a village, but they want to hear about _you_.
+*In no way do I mean you should lie or exaggerate on your SOP. However, I have noticed in myself and my friends that we all have a tendency to feel _reeeeeally_ uncomfortable about taking any sort of ownership for our work in the lab, since our research has of course been enabled by so many amazing research mentors. My experience is that writing out plainly and truthfully my research contributions without mentioning my mentors initially felt almost like lying. I encourage you to push yourself to reach this point of discomfort. The reader knows that undergraduate research is supported by a village, but they want to hear about _you_.
 
 Here’s an example from my own SOP. This is the section where I talk about the research that I did at UNC during my junior year of undergrad, and then why I switched to new research the next summer.
 
