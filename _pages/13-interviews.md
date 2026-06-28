@@ -8,10 +8,10 @@ Not all PhD programs require interviews. I only had one online interview, for a 
 
 # how to prepare for an interview
 
--[] Read up on the professor’s (or multiple professors’) research, and make sure you have an informed reason that you want to work in their group for the next four to six years.
--[] Prepare for common questions you may be asked. A mock interview through the UNC Career Center can help with this.
--[] Prepare a few questions to ask the professor(s). They are going to ask you if you have any questions for them, so you should have questions prepared.
--[] Prepare anything else that the professor(s) ask for.
+- [] Read up on the professor’s (or multiple professors’) research, and make sure you have an informed reason that you want to work in their group for the next four to six years.
+- [] Prepare for common questions you may be asked. A mock interview through the UNC Career Center can help with this.
+- [] Prepare a few questions to ask the professor(s). They are going to ask you if you have any questions for them, so you should have questions prepared.
+- [] Prepare anything else that the professor(s) ask for.
 
 # mock interviews
 
