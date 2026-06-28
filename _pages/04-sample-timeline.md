@@ -34,121 +34,93 @@ Writing a grad school statement of purpose came very unintuitively for me. Lucki
 
 You don’t want to be stuck worrying about your letter writers once the semester starts! I also chose to lean on two of my three letter writers as advisors who supported me through the application process, so I knew that they were involved and committed to writing me a good letter.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Timeline</title>
-  <style>
-    body {
-      background-color: #ffffff;
-      color: #111111;
-      max-width: 700px;
-      margin: 40px auto;
-      padding: 0 32px;
-      font-size: 17px;
-      line-height: 1.7;
-    }
+<style>
+  .timeline {
+    position: relative;
+    padding-left: 40px;
+  }
 
-    .timeline {
-      position: relative;
-      padding-left: 40px;
-    }
+  .timeline::before {
+    content: "";
+    position: absolute;
+    left: 6px;
+    top: 8px;
+    bottom: 8px;
+    width: 1px;
+    background-color: #cccccc;
+  }
 
-    /* Vertical line */
-    .timeline::before {
-      content: "";
-      position: absolute;
-      left: 6px;
-      top: 8px;
-      bottom: 8px;
-      width: 1px;
-      background-color: #cccccc;
-    }
+  .timeline-item {
+    position: relative;
+    margin-bottom: 48px;
+  }
 
-    .timeline-item {
-      position: relative;
-      margin-bottom: 48px;
-    }
+  .timeline-item::before {
+    content: "";
+    position: absolute;
+    left: -37px;
+    top: 7px;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background-color: #111111;
+  }
 
-    /* Circle dot */
-    .timeline-item::before {
-      content: "";
-      position: absolute;
-      left: -37px;
-      top: 7px;
-      width: 13px;
-      height: 13px;
-      border-radius: 50%;
-      background-color: #111111;
-    }
+  .timeline-date {
+    letter-spacing: 0.10em;
+    text-transform: uppercase;
+    color: #888888;
+    margin-bottom: 4px;
+  }
 
-    .timeline-date {
-      font-size: 11px;
-      font-weight: 600;
-      letter-spacing: 0.10em;
-      text-transform: uppercase;
-      color: #888888;
-      margin-bottom: 4px;
-    }
+  .timeline-title {
+    font-weight: bold;
+    color: #111111;
+    margin: 0 0 8px 0;
+  }
 
-    .timeline-title {
-      font-size: 20px;
-      font-weight: bold;
-      color: #111111;
-      margin: 0 0 8px 0;
-    }
+  .timeline-body {
+    color: #111111;
+    margin: 0;
+  }
+</style>
 
-    .timeline-body {
-      font-size: 17px;
-      line-height: 1.7;
-      color: #111111;
-      margin: 0;
-    }
-  </style>
-</head>
-<body>
+<div class="timeline">
 
-  <div class="timeline">
-
-    <!-- ── ITEM 1 ── -->
-    <div class="timeline-item">
-      <div class="timeline-date">Month – Month</div>
-      <h2 class="timeline-title">Step Title Goes Here</h2>
-      <p class="timeline-body">
-        Describe what happens during this phase. Replace this text with your own details about the tasks, goals, or actions for this time period.
-      </p>
-    </div>
-
-    <!-- ── ITEM 2 ── -->
-    <div class="timeline-item">
-      <div class="timeline-date">Month</div>
-      <h2 class="timeline-title">Step Title Goes Here</h2>
-      <p class="timeline-body">
-        Describe what happens during this phase. Replace this text with your own details about the tasks, goals, or actions for this time period.
-      </p>
-    </div>
-
-    <!-- ── ITEM 3 ── -->
-    <div class="timeline-item">
-      <div class="timeline-date">Month – Month</div>
-      <h2 class="timeline-title">Step Title Goes Here</h2>
-      <p class="timeline-body">
-        Describe what happens during this phase. Replace this text with your own details about the tasks, goals, or actions for this time period.
-      </p>
-    </div>
-
-    <!-- ── ITEM 4 ── Add or remove items as needed ── -->
-    <div class="timeline-item">
-      <div class="timeline-date">Month</div>
-      <h2 class="timeline-title">Step Title Goes Here</h2>
-      <p class="timeline-body">
-        Describe what happens during this phase. Replace this text with your own details about the tasks, goals, or actions for this time period.
-      </p>
-    </div>
-
+  <!-- ── ITEM 1 ── -->
+  <div class="timeline-item">
+    <div class="timeline-date">Month – Month</div>
+    <p class="timeline-title">Step Title Goes Here</p>
+    <p class="timeline-body">
+      Describe what happens during this phase. Replace this text with your own details about the tasks, goals, or actions for this time period.
+    </p>
   </div>
 
-</body>
-</html>
+  <!-- ── ITEM 2 ── -->
+  <div class="timeline-item">
+    <div class="timeline-date">Month</div>
+    <p class="timeline-title">Step Title Goes Here</p>
+    <p class="timeline-body">
+      Describe what happens during this phase. Replace this text with your own details about the tasks, goals, or actions for this time period.
+    </p>
+  </div>
+
+  <!-- ── ITEM 3 ── -->
+  <div class="timeline-item">
+    <div class="timeline-date">Month – Month</div>
+    <p class="timeline-title">Step Title Goes Here</p>
+    <p class="timeline-body">
+      Describe what happens during this phase. Replace this text with your own details about the tasks, goals, or actions for this time period.
+    </p>
+  </div>
+
+  <!-- ── ITEM 4 ── Add or remove items as needed ── -->
+  <div class="timeline-item">
+    <div class="timeline-date">Month</div>
+    <p class="timeline-title">Step Title Goes Here</p>
+    <p class="timeline-body">
+      Describe what happens during this phase. Replace this text with your own details about the tasks, goals, or actions for this time period.
+    </p>
+  </div>
+
+</div>
