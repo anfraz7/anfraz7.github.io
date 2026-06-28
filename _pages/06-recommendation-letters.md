@@ -6,9 +6,9 @@ parent: "applying for grad school"
 
 Most graduate school applications ask for three letters of recommendation. In most cases you will use the same three letter writers for all school applications, and those letter writers can submit the exact same letter to all schools you apply for. I recommend asking for letters far in advance of your first deadline, even if you don’t have a complete list of where you’re applying—I secured my letter writers before the fall semester started.
 
-# Identifying Letter Writers
+# identifying letter writers
 
-### Who should write me a recommendation letter?
+### who should write me a recommendation letter?
 
 Here is how I go about choosing letter writers. There is no one right way to go about it, and the rules are easily broken. For example, a professor with whom you have a great connection from office hours is better than a PHYS 332 professor you don’t know very well. The most important rule is to choose people who will write you _strong_ letters of recommendation.
 
@@ -26,9 +26,9 @@ Lastly, **professors with whom you have engaged _extensively_ in office hours** 
 
 If you need to ask a professor that doesn't fall into any of these three categories, you will have to do a bit more leg work. For example, maybe you request to meet with the professor before they agree to write you a letter to give them a short presentation on an independent research project you did, and how it relates to what you learned in their class.
 
-# Communicating with Letter Writers
+# communicating with letter writers
 
-### What should I give my letter writers?
+### what should I give my letter writers?
 
 I gave all my letter writers these items:
 
@@ -50,7 +50,7 @@ _As soon as I could_
 
 Some professors may have specific materials they ask for when writing a recommendation letter and some may not. _Even if they don't ask_, give them your CV and statement of purpose anyways. They are helping you out by writing this letter, and providing your application materials makes their life easier and shows them that you are invested in helping them help you.
 
-### What should I do if I am worried my letter writer might not submit on time?
+### what should I do if I am worried my letter writer might not submit on time?
 
 Firstly, remember how you turn in all of your assignments at 11:59 PM the day they are due and feel that is normal. Some professors are just going to turn in your first letter the day it is due, and it’s not really fair to ask them to turn it in sooner even if it plucks your nerves like a banjo.
 
