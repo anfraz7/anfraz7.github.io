@@ -33,6 +33,7 @@ Note that some professors, particularly at schools that get a lot of applicants,
 
 _To a professor who requested all interested students email her. I emailed her seven days before the deadline. She responded saying I looked like a competitive applicant and she would read my application. I got an interview offer from her and was ultimately waitlisted._
 
+
 > Dear Dr. [Name],
 >
 > I hope this email finds you well.
