@@ -50,10 +50,10 @@ _To a professor who requested all interested students email her. I emailed her s
 > Best,
 > Anya
 > 
-> **Anya Frazer**
-> _University of North Carolina at Chapel Hill
-> Department of Physics and Astronomy
-> Class of 2026_
+> **Anya Frazer**  
+> _University of North Carolina at Chapel Hill  
+> Department of Physics and Astronomy  
+> Class of 2026_  
 
 # connecting in person
 
