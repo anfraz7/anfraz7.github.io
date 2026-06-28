@@ -16,10 +16,15 @@ While pursuing my B.S. in Physics, I have done interdisciplinary research in Mat
 
 Here is a list of the programs I applied for:
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 20px;">
+
+<div>
+
 ## PhD Programs
 
-*admitted*
-<div style="border: 2px dashed #aaa; background: #e8f0e0; padding: 10px 20px; display: inline-block; margin: 8px 0;">
+*Admitted*
+
+<div style="border: 2px solid #2e7d32; background: #e8f5e9; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 
 - **UC Berkeley** Materials Science
 - **Penn State** Materials Science
@@ -29,14 +34,16 @@ Here is a list of the programs I applied for:
 </div>
 
 *Waitlisted*
-<div style="border: 2px dashed #aaa; background: #fafac0; padding: 10px 20px; display: inline-block; margin: 8px 0;">
+
+<div style="border: 2px solid #f9a825; background: #fffde7; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 
 - **Yale** Applied Physics
 
 </div>
 
 *Rejected*
-<div style="border: 2px dashed #aaa; background: #f0f0f0; padding: 10px 20px; display: inline-block; margin: 8px 0;">
+
+<div style="border: 2px solid #c62828; background: #ffebee; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 
 - **Harvard** Applied Physics
 - **UChicago** Physics, Quantum Engineering
@@ -44,15 +51,35 @@ Here is a list of the programs I applied for:
 
 </div>
 
+</div>
+
+<div>
+
 ## Fellowships
 
 *Rejected*
-<div style="border: 2px dashed #aaa; background: #dce8f5; padding: 10px 20px; display: inline-block; margin: 8px 0;">
+
+<div style="border: 2px solid #1565c0; background: #e3f2fd; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 
 - **NSF GRFP** MSE, Computationally Intensive
 - **DOE CSGF**
 - **Churchill Scholarship (Cambridge)\***
 - **Gates Cambridge (Cambridge)\***
+
+</div>
+
+## Master's Programs
+
+*Admitted*
+
+<div style="border: 2px solid #2e7d32; background: #e8f5e9; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
+
+- **University of Cambridge** Materials Science
+- **University of Chicago** Molecular Engineering *(From PhD application)*
+
+</div>
+
+</div>
 
 </div>
 
