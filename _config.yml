@@ -19,14 +19,14 @@ nav:
   - title: anya's little textbook
     url: /
   - title: study guides
-    url: /study-guides.md/
+    url: /study-guides/
   - title: summer research
-    url: /summer-research.md/
+    url: /summer-research/
   - title: applying for grad school
     url: /applying-for-grad-school/
     sublinks:
       - title: introduction
-        url: /applying-for-grad-school/introduction.md/
+        url: /applying-for-grad-school/introduction/
       - title: phd vs master's
         url: /applying-for-grad-school/phd-vs-masters/
       - title: affording a phd
