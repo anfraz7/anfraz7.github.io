@@ -23,13 +23,13 @@ I have described down below what I take to be the elements of a good SOP, in the
 
 # elements of a statement of purpose
 
-1. introduction
+### 1. introduction
 
 Figuring out how to start your SOP is a process. You can take it in literally so many different directions. My only piece of advice is a total cliche: don’t spend your whole first paragraph talking about how “I’ve been fascinated by physics ever since I was a little kid…” ! The admissions committee wants to know who you are _now_ and what your unique _adult_ career passions are, not your elementary school fascinations. If you feel your elementary school fascinations are relevant to your current career goals, show that very explicitly.
 
 I used my first paragraph to develop two ideas: (1) I love materials science because it is both fundamental physics but also heavily relevant for sustainability applications; and (2) I believe that computational materials science will be a critical component of sustainable materials development in the coming years and I want to be a part of that.
 
-2. research/academic history
+### 2. research/academic history
 
 This is where you go chronologically through significant research or academic endeavors that you have been involved in undergrad, and use those to paint a story of how you have _thought like a scientist_ through all of them. It should be clear to the reader how all of these experiences led to your choice to apply for a PhD in your chosen subfield, and made you uniquely qualified for the research you want to do in grad school.
 
@@ -55,7 +55,7 @@ Here’s an example from my own SOP. This is the section where I talk about the 
 
 It goes without saying, but please don’t copy any of my language for your own SOP! (I will also be using this for my GRFP application next year, so you could get us _both_ flagged if you do 😬)
 
-3. why this school?
+### 3. why this school?
 
 **what research groups draw your interest at this school?**
 
@@ -67,6 +67,6 @@ It’s important to show why _you_ find a research group’s work interesting, r
 
 The main focus of a PhD is the research advisor, but I think it’s also helpful to spend a little time talking about why you feel like you would fit in with the larger department or curriculum. I used this space to name three goals I had for graduate school that would set me up for the career I desired, and how the school fit into those goals. Again, this section shouldn’t merely list off facts about the school that you like, but should instead be yet another opportunity for the reader to understand more about _you_ and why _you_ will be a good fit at this school.
 
-4. conclusion
+### 4. conclusion
 
 The conclusion is a very easy place to fall into vague statements—“I am so excited to take this next step of pursing a PhD” / “[School] would be the perfect place for me to spend the next five years” ! Don’t fall into the trap! Keep it you-specific. I used this space to talk about my long-term career goal of being a professor so I could cultivate a specific research group environment, mentor the next generation of researchers, and further my specific research goals.
