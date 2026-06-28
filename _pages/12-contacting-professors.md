@@ -38,7 +38,7 @@ _To a professor who requested all interested students email her. I emailed her s
 >
 > I hope this email finds you well.
 >
-> My name is Anya Frazer, and I am a fourth-year physics major at the University of North Carolina at Chapel Hill. I currently do phase-field research on the optical properties of ferroelectrics with Dr. Long-Qing Chen at Penn State, and I am applying for graduate school to study computational materials science.
+> My name is Anya Frazer, and I am a fourth-year physics major at the University of North Carolina at Chapel Hill. I currently do phase-field research on the optical properties of ferroelectrics with Dr. [Name] at Penn State, and I am applying for graduate school to study computational materials science.
 > 
 > Looking ahead, I am interested in studying excitonic materials with first principles methods for photovoltaic applications in my PhD. Additionally, I would like to improve my scientific computing skills, particularly in machine learning methods for materials design. I am very interested in your group because of your research into all these areas. For example, I was interested to read your recent pre-print “[Paper Name],” where you present a machine learning method for speeding up accurate excited-state property calculations. I would love to work on a project developing new computational methods such as this in graduate school.
 > 
