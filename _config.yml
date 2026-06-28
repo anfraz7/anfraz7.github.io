@@ -15,20 +15,12 @@ gitbook_version:  3.2.3
 remote_theme: sighingnow/jekyll-gitbook
 
 collections:
-  study-guides:
-    output: true
-    permalink: /:collection/:path/
-  summer-research:
-    output: true
-    permalink: /:collection/:path/
-  applying-for-grad-school:
+  pages:
     output: true
     permalink: /:collection/:path/
 
 ordered_collections:
-  - study-guides
-  - summer-research
-  - applying-for-grad-school
+  - pages
 
 toc:
   enabled: true
