@@ -90,7 +90,14 @@ These are the times that I stuck to my timeline that I think paid off the most.
   <div class="timeline-item">
     <div class="timeline-date">Month</div>
     <ul class="timeline-body">
-      <li>First bullet point for this phase.</li>
+      <li>Identify a mentor who will help you with the graduate school application process and schedule a meeting with them. This can be a research advisor (preferred) or an academic advisor in the physics department. Ask questions like…
+- My career goals are (x). Do you feel like a PhD is a good step to get me there? 
+- What are some steps you recommend me taking now to prepare for PhD applications?
+- I really like (x) aspects of the research I’m currently doing, but I might also want (y) in the research I do in grad school. Do you have any recommendations on fields or sub-fields I can read up on?
+- Do you think I am a good candidate for PhD programs at schools like (x,y,z)? Do you think I should apply for only PhD programs, or would you recommend that I apply for master’s programs alongside/before PhD programs? 
+- Am I a good candidate for fellowships like the NSF GRFP?
+- Would you be willing to help me along the way with my applications?
+</li>
       <li>Second bullet point for this phase.</li>
       <li>Third bullet point for this phase.</li>
     </ul>
