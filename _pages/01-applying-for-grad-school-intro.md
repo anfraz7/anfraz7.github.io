@@ -20,9 +20,9 @@ Here is a list of the programs I applied for:
 
 <div>
 
-## PhD Programs
+### PhD Programs
 
-*Admitted*
+_admitted_
 
 <div style="border: 2px solid #2e7d32; background: #e8f5e9; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 
@@ -33,7 +33,7 @@ Here is a list of the programs I applied for:
 
 </div>
 
-*Waitlisted*
+_waitlisted_
 
 <div style="border: 2px solid #f9a825; background: #fffde7; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 
