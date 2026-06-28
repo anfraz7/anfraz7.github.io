@@ -18,7 +18,7 @@ Here is a list of the programs I applied for:
 
 ## PhD Programs
 
-*Admitted*
+*admitted*
 <div style="border: 2px dashed #aaa; background: #e8f0e0; padding: 10px 20px; display: inline-block; margin: 8px 0;">
 
 - **UC Berkeley** Materials Science
