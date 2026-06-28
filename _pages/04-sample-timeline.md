@@ -67,15 +67,10 @@ These are the times that I stuck to my timeline that I think paid off the most.
     margin-bottom: 4px;
   }
 
-  .timeline-title {
-    font-weight: bold;
-    color: #111111;
-    margin: 0 0 8px 0;
-  }
-
   .timeline-body {
     color: #111111;
     margin: 0;
+    padding-left: 20px;
   }
 </style>
 
@@ -83,38 +78,42 @@ These are the times that I stuck to my timeline that I think paid off the most.
 
   <!-- ── ITEM 1 ── -->
   <div class="timeline-item">
-    <div class="timeline-date">Month – Month</div>
-    <p class="timeline-title">Step Title Goes Here</p>
-    <p class="timeline-body">
-      Describe what happens during this phase. Replace this text with your own details about the tasks, goals, or actions for this time period.
-    </p>
+    <div class="timeline-date">Junior Spring</div>
+    <ul class="timeline-body">
+      <li>First bullet point for this phase.</li>
+      <li>Second bullet point for this phase.</li>
+      <li>Third bullet point for this phase.</li>
+    </ul>
   </div>
 
   <!-- ── ITEM 2 ── -->
   <div class="timeline-item">
     <div class="timeline-date">Month</div>
-    <p class="timeline-title">Step Title Goes Here</p>
-    <p class="timeline-body">
-      Describe what happens during this phase. Replace this text with your own details about the tasks, goals, or actions for this time period.
-    </p>
+    <ul class="timeline-body">
+      <li>First bullet point for this phase.</li>
+      <li>Second bullet point for this phase.</li>
+      <li>Third bullet point for this phase.</li>
+    </ul>
   </div>
 
   <!-- ── ITEM 3 ── -->
   <div class="timeline-item">
     <div class="timeline-date">Month – Month</div>
-    <p class="timeline-title">Step Title Goes Here</p>
-    <p class="timeline-body">
-      Describe what happens during this phase. Replace this text with your own details about the tasks, goals, or actions for this time period.
-    </p>
+    <ul class="timeline-body">
+      <li>First bullet point for this phase.</li>
+      <li>Second bullet point for this phase.</li>
+      <li>Third bullet point for this phase.</li>
+    </ul>
   </div>
 
   <!-- ── ITEM 4 ── Add or remove items as needed ── -->
   <div class="timeline-item">
     <div class="timeline-date">Month</div>
-    <p class="timeline-title">Step Title Goes Here</p>
-    <p class="timeline-body">
-      Describe what happens during this phase. Replace this text with your own details about the tasks, goals, or actions for this time period.
-    </p>
+    <ul class="timeline-body">
+      <li>First bullet point for this phase.</li>
+      <li>Second bullet point for this phase.</li>
+      <li>Third bullet point for this phase.</li>
+    </ul>
   </div>
 
 </div>
