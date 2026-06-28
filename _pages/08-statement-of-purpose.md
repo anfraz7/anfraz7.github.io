@@ -50,7 +50,7 @@ The SOP is the time to…
 Here’s an example from my own SOP. This is the section where I talk about the research that I did at UNC during my junior year of undergrad, and then why I switched to new research the next summer.
 
 > I spent my junior year designing hardware to create and view phagocytosis target beads (UNC). Specialized immune cells called macrophages have the potential to engulf cancer cells through a process called phagocytosis, and our lab develops specialized microscopes to probe this process. I rebuilt our 3D printed fluorescence microscope and designed and printed a mechanical molecular stamper for its stage, to stamp anisotropic beads for our macrophages to phagocytose. Building hardware expanded my troubleshooting skills. For example, when I first turned on my microscope I saw no light from my sample. To diagnose the issue, I plotted the emission and excitation spectra of the old filter set and determined they had too much overlap. I designed, ordered, and cut new filters of colored glass. To track my fixes, I wrote a “troubleshooting manual”—one of my many initiatives to support future 3D printed microscopy in the lab.
-
+> 
 > I wrote a proposal and was awarded a highly competitive university SURF grant to expand my molecular stamper over the summer. However, I missed the theory, coding, and infinite data analysis of computational research. I therefore declined the SURF for an REU at Penn State University, research I now continue remotely.
 
 It goes without saying, but please don’t copy any of my language for your own SOP! (I will also be using this for my GRFP application next year, so you could get us _both_ flagged if you do 😬)
