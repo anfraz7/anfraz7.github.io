@@ -30,15 +30,15 @@ I reserved a study room in Davis for my interview, which I liked because it assu
 
 **non-technical questions I was asked**
 
-What is your coding background?
-What do you enjoy most about the research you presented on?
-Have you taken solid state physics?
-Do you have any questions for me?
+- What is your coding background?
+- What do you enjoy most about the research you presented on?
+- Have you taken solid state physics?
+- Do you have any questions for me?
 
 (Most of her questions were technical questions about my research presentation, so this isn’t a great representative list.)
 
 **questions I asked**
 
-What are some projects you are excited about that you would see an incoming grad student working on?
-What is your advising philosophy?
+- What are some projects you are excited about that you would see an incoming grad student working on?
+- What is your advising philosophy?
 
