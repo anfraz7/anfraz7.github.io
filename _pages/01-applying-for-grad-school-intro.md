@@ -8,91 +8,86 @@ parent: "applying for grad school"
 
 My name is Anya, and I graduated from UNC with a B.S. in Physics and B.A. in Music in May 2026. I’ll be matriculating this fall at UC Berkeley in the Materials Science and Engineering PhD program. Applying to grad schools involved lots of mistakes and growth, so I’m putting together this guide to document everything that I learned throughout the process. I hope someone finds it helpful!
 
-Also, I’d like to share my friend Rachel’s excellent PhD application guide. She’s the boss!
+Also, I’d like to share my friend [Rachel’s excellent PhD application guide](https://white3792.github.io/rachels-complete-guide-to-graduate-school-applications/). She’s the boss!
+
+# disclaimer
+
+This guide documents what I learned from my own application process and those of my friends. There are millions of paths to grad school and I only know a few. For proper guidance on how to develop your own personal path to grad school, a professor/mentor that has helped many diverse successful applicants will have far more personalized advice. What I _can_ help with is the experience of navigating the process as a student in 2026: little-known UNC resources, managing your timeline, communicating with letter writers, finding fee waivers, cultivating mentors to read over your statement of purpose, etc. I hope I can help bridge this gap and bring a little more ease to someone's application process :)
 
 # my application cycle
 
-While pursuing my B.S. in Physics, I have done interdisciplinary research in Materials Science, Chemistry, Applied Physical Sciences, and Mechanical Engineering groups. When I identified my research area of interest for my PhD, I discovered that the groups I was interested in were equally spread across Physics and Materials Science departments. Therefore, I applied for a mixture of PhD programs in Physics and Materials Science. Additionally, I applied for several fellowships.
+While pursuing my B.S. in Physics, I have done interdisciplinary research in Materials Science, Chemistry, Applied Physical Sciences, and Mechanical Engineering groups. When I identified my research area of interest for my PhD, I discovered that the groups I was interested in were equally spread across Physics and Materials Science departments. I therefore applied for a mixture of PhD programs in Physics and Materials Science. Additionally, I applied for several fellowships.
 
 Here is a list of the programs I applied for:
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 20px;">
-
 <div>
 
-### PhD Programs
+<h2>PhD Programs</h2>
 
-_admitted_
-
+<em>Admitted</em>
 <div style="border: 2px solid #2e7d32; background: #e8f5e9; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
-
-- **UC Berkeley** Materials Science
-- **Penn State** Materials Science
-- **UT Austin** Physics
-- **Rutgers** Physics
-
+<ul>
+<li><strong>UC Berkeley</strong> Materials Science</li>
+<li><strong>Penn State</strong> Materials Science</li>
+<li><strong>UT Austin</strong> Physics</li>
+<li><strong>Rutgers</strong> Physics</li>
+</ul>
 </div>
 
-_waitlisted_
-
+<em>Waitlisted</em>
 <div style="border: 2px solid #f9a825; background: #fffde7; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
-
-- **Yale** Applied Physics
-
+<ul>
+<li><strong>Yale</strong> Applied Physics</li>
+</ul>
 </div>
 
-*Rejected*
-
+<em>Rejected</em>
 <div style="border: 2px solid #c62828; background: #ffebee; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
-
-- **Harvard** Applied Physics
-- **UChicago** Physics, Quantum Engineering
-- **Duke** Materials Science
-
+<ul>
+<li><strong>Harvard</strong> Applied Physics</li>
+<li><strong>UChicago</strong> Physics, Quantum Engineering</li>
+<li><strong>Duke</strong> Materials Science</li>
+</ul>
 </div>
 
 </div>
-
 <div>
 
-## Fellowships
+<h2>Fellowships</h2>
 
-*Rejected*
-
+<em>Rejected</em>
 <div style="border: 2px solid #1565c0; background: #e3f2fd; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
-
-- **NSF GRFP** MSE, Computationally Intensive
-- **DOE CSGF**
-- **Churchill Scholarship (Cambridge)\***
-- **Gates Cambridge (Cambridge)\***
-
+<ul>
+<li><strong>NSF GRFP</strong> MSE, Computationally Intensive</li>
+<li><strong>DOE CSGF</strong></li>
+<li><strong>Churchill Scholarship (Cambridge)*</strong></li>
+<li><strong>Gates Cambridge (Cambridge)*</strong></li>
+</ul>
 </div>
 
-## Master's Programs
+<h2>Master's Programs</h2>
 
-*Admitted*
-
+<em>Admitted</em>
 <div style="border: 2px solid #2e7d32; background: #e8f5e9; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
-
-- **University of Cambridge** Materials Science
-- **University of Chicago** Molecular Engineering *(From PhD application)*
-
+<ul>
+<li><strong>University of Cambridge</strong> Materials Science</li>
+<li><strong>University of Chicago</strong> Molecular Engineering <em>(From PhD application)</em></li>
+</ul>
 </div>
 
 </div>
-
 </div>
 
 For me, this application cycle has been a huge dichotomy: the thrill of getting into my top PhD programs, and the disappointment of rejection from fellowships that I poured my heart into. This guide is going to of course focus on how to create a successful application. I truly believe in putting yourself out there and applying for that program that you really want, because sometimes it pays off! But, I would be remiss if I didn’t share the biggest lesson I learned: sometimes you put together the best application you possibly can and it just doesn’t work out. Academia is a highly competitive world and you can’t take it personally! Be proud of yourself for putting yourself out there, and then move forward.
 
 Ugh! What a bummer! Don’t worry, most of this guide is about getting into programs.
 
-* These are highly competitive international scholarships for the University of Cambridge. If you’re interested in learning more, go to the “International Fellowships” tab.
+*These are highly competitive international scholarships for the University of Cambridge. If you’re interested in learning more, go to the “International Fellowships” tab.
 
 # this guide
 
-Each of the tabs on the left contains my take on aspects of grad school applications such as recommendation letters, interviews, essays, etc. Although there are probably a few example grad school essays out there on the internet, I chose not to share mine on this document. I think that part of the process of coming up with a good essay for grad school involves starting from scratch and figuring out what makes you tick, instead of copying someone else’s successful template. That said, I’m happy to read over any essays! Send them my way at the email below. <3
+Each of the tabs on the left contains my take on aspects of grad school applications such as recommendation letters, interviews, essays, etc. I chose not to share my application essays on this document because I will be using them to apply for several fellowships next year. But also, I think that part of the process of coming up with a good essay for grad school involves starting from scratch and figuring out what makes you tick, instead of copying someone else’s successful template. That said, I’m happy to read over essays! Send them my way at the email below. <3
 
 Feel free to reach out if you have any questions!
 anyakennedy777@gmail.com
-
