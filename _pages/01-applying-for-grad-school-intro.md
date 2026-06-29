@@ -79,6 +79,8 @@ Here is a list of the programs I applied for:
 </div>
 </div>
 
+
+
 For me, this application cycle has been a huge dichotomy: the thrill of getting into my top PhD programs, and the disappointment of rejection from fellowships that I poured my heart into. This guide is going to of course focus on how to create a successful application. I truly believe in putting yourself out there and applying for that program that you really want, because sometimes it pays off! But, I would be remiss if I didn’t share the biggest lesson I learned: sometimes you put together the best application you possibly can and it just doesn’t work out. Academia is a highly competitive world and you can’t take it personally! Be proud of yourself for putting yourself out there, and then move forward.
 
 Ugh! What a bummer! Don’t worry, most of this guide is about getting into programs.
