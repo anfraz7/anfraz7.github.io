@@ -26,7 +26,7 @@ Here is a list of the programs I applied for:
 <h2>PhD Programs</h2>
 
 <em>Admitted</em>
-<div style="border: 2px solid #4a7c59; background: #f0f5f1; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
+<div style="border: 2px solid #5b8a6f; background: #f2f7f4; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 <ul>
 <li><strong>UC Berkeley</strong> Materials Science</li>
 <li><strong>Penn State</strong> Materials Science</li>
@@ -36,14 +36,14 @@ Here is a list of the programs I applied for:
 </div>
 
 <em>Waitlisted</em>
-<div style="border: 2px solid #b5860d; background: #fdf8ee; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
+<div style="border: 2px solid #8a7a5b; background: #f7f5f0; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 <ul>
 <li><strong>Yale</strong> Applied Physics</li>
 </ul>
 </div>
 
 <em>Rejected</em>
-<div style="border: 2px solid #8b4a4a; background: #fdf0f0; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
+<div style="border: 2px solid #7a5b5b; background: #f7f2f2; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 <ul>
 <li><strong>Harvard</strong> Applied Physics</li>
 <li><strong>UChicago</strong> Physics, Quantum Engineering</li>
@@ -57,7 +57,7 @@ Here is a list of the programs I applied for:
 <h2>Fellowships</h2>
 
 <em>Rejected</em>
-<div style="border: 2px solid #3a5f8a; background: #f0f4f9; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
+<div style="border: 2px solid #5b6e8a; background: #f2f4f7; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 <ul>
 <li><strong>NSF GRFP</strong> MSE, Computationally Intensive</li>
 <li><strong>DOE CSGF</strong></li>
@@ -69,7 +69,7 @@ Here is a list of the programs I applied for:
 <h2>Master's Programs</h2>
 
 <em>Admitted</em>
-<div style="border: 2px solid #4a7c59; background: #f0f5f1; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
+<div style="border: 2px solid #5b8a6f; background: #f2f7f4; padding: 10px 20px; border-radius: 8px; margin: 8px 0;">
 <ul>
 <li><strong>University of Cambridge</strong> Materials Science</li>
 <li><strong>University of Chicago</strong> Molecular Engineering <em>(From PhD application)</em></li>
