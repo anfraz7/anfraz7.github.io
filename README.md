@@ -1,4 +1,4 @@
-Hello and welcome to anya's little textbook!
+Hello and welcome to Anya's Little Textbook!
 
 For those of you who don't know me, my name is Anya and I graduated from UNC in May 2026 with my B.S. in Physics and B.A. in Music. I am now a PhD student in Materials Science and Engineering at UC Berkeley. 
 
